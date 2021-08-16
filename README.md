@@ -10,9 +10,9 @@ Flow : Home Page > View all customers > Select and View one customer > Transfer 
 ➤ Output
 
 ➤ HOME
-![image](https://user-images.githubusercontent.com/85395138/129562595-48804f5b-ca11-4449-b884-7b259b5b5edd.png)
-➤ view customers
 ![image](https://user-images.githubusercontent.com/85395138/129562313-9a9b528e-5f99-4d7a-a74b-762694860080.png)
+➤ view customers
+![image](https://user-images.githubusercontent.com/85395138/129562595-48804f5b-ca11-4449-b884-7b259b5b5edd.png)
 ➤ Transfer money
 ![image](https://user-images.githubusercontent.com/85395138/129562823-b29e9e25-2f05-4459-8f6b-1b2346946baa.png)
 ➤ View transactions
